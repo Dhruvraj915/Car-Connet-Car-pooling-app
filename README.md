@@ -1,6 +1,7 @@
 # Carpooling App
 - **A carpooling platform that connects riders and drivers efficiently.**
 
+
 ## Features
 - User authentication & profile management<br/>
 - Ride creation and booking<br/>
@@ -67,6 +68,7 @@ flutter run
    - path all your necessary to environment variables
 
 # License
-- @[mithildabhi](https://github.com/mithildabhi)
 - @[Dhruvraj915](https://github.com/Dhruvraj915)
+- @[mithildabhi](https://github.com/mithildabhi)
+
 
