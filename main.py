@@ -12,10 +12,11 @@ def connect_to_database():
             port="6543"
         )
 
+
         # Create a cursor
         cursor = connection.cursor()
         
-        
+
         # Print PostgreSQL details
         print("Successfully connected to PostgreSQL database!")
         print("PostgreSQL server information:", connection.get_dsn_parameters())
