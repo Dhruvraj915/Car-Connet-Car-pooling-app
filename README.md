@@ -1,6 +1,7 @@
 # Carpooling App
 - **A carpooling platform that connects riders and drivers efficiently.**
 
+
 ## Features
 - User authentication & profile management<br/>
 - Ride creation and booking<br/>
