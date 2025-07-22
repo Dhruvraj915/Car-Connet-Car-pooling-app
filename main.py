@@ -15,6 +15,7 @@ def connect_to_database():
         # Create a cursor
         cursor = connection.cursor()
         
+        
         # Print PostgreSQL details
         print("Successfully connected to PostgreSQL database!")
         print("PostgreSQL server information:", connection.get_dsn_parameters())
